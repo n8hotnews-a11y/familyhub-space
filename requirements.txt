@@ -1,0 +1,7 @@
+gradio==4.44.0
+transformers>=4.41.0
+diffusers>=0.32.0
+accelerate
+safetensors
+torch                   # Trên CPU sẽ cài torch CPU, nếu chọn GPU thì HF sẽ tự dùng bản CUDA
+Pillow
