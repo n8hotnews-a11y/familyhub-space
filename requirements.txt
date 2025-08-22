@@ -1,4 +1,4 @@
-gradio
+gradio==4.43.0
 pillow
 requests
 numpy
